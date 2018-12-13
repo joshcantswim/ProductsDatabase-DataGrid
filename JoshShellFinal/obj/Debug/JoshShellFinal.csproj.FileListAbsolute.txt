@@ -1,0 +1,10 @@
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\bin\Debug\JoshShellFinal.exe.config
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\bin\Debug\TechSupport.mdf
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\bin\Debug\TechSupport_log.ldf
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\bin\Debug\JoshShellFinal.exe
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\bin\Debug\JoshShellFinal.pdb
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\obj\Debug\JoshShellFinal.Form1.resources
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\obj\Debug\JoshShellFinal.Properties.Resources.resources
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\obj\Debug\JoshShellFinal.csproj.GenerateResource.Cache
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\obj\Debug\JoshShellFinal.exe
+c:\users\cechuser\documents\visual studio 2015\Projects\JoshShellFinal\JoshShellFinal\obj\Debug\JoshShellFinal.pdb
